@@ -1,13 +1,26 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar{
+  background-color: rgba(0, 0, 0, 0),
+  box-sizing border-box,
+  color rgb(33, 37, 41),
+  display block,
+  font-family din-2014,
+  font-size 16px,
+  font-weight 400,
+  height 103.6px,
+  left 0px,
+  line-height 24px,
+  margin-left 0px,
+  margin-right 0px,
+  padding-bottom 0px,
+  padding-left 0px,
+  padding-right 0px,
+  padding-top 0px,
+  position fixed,
+  right 0px,
+  text-align start,
+  text-size-adjust 100%,
+  top 0px,
+  width 976.8px,
+  z-index 1030,
+  -webkit-tap-highlight-color rgba(0, 0, 0, 0)
 }
